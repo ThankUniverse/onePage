@@ -111,5 +111,20 @@ Blue banner under the first image
         text-transform: uppercase;
         font-size: 12px;
       }
+
+      .contTxtLeft{
+        margin: 11%;
+
+        display: flex;
+        justify-content: flex-start;
+        
+      }
+
+      .drawAlignRight{
+        display: flex;
+        justify-content: space-between;
+      }
+
+
   
  
