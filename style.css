@@ -14,7 +14,7 @@ body{
   justify-content: space-around;
 }
 
-#navigation a{  /*Property of the nav link*/
+#navigation a{/*Property of the nav link*/
   color: white;
   text-decoration: none;
 }
@@ -23,7 +23,7 @@ body{
         background: linear-gradient(to bottom, rgba(55,62,70,.8),rgba(55,62,70,.8)), url('images/archiHouse.jpg') 50% 50% / cover no-repeat fixed border-box;
         height: 70vh;
 
-          /*Text inside the Image*/
+        /*Text inside the Image*/
         text-align: center;
         color: white;
         margin: 0px;
@@ -58,76 +58,77 @@ Blue banner under the first image
   background-color: #5191D9;
 }
 
-  .blueBanner p{
-    margin: 0px;
-    padding-top: 7vh;
-    margin-top: 0px;
-    opacity:0.5;
-  }
-  .blueBanner h2{
-    padding-bottom: 7vh;
-    margin-bottom: 0px;
-    opacity:0.5;
-  }
+.blueBanner p{
+  margin: 0px;
+  padding-top: 7vh;
+  margin-top: 0px;
+  opacity:0.5;
+}
+.blueBanner h2{
+  padding-bottom: 7vh;
+  margin-bottom: 0px;
+  opacity:0.5;
+}
 
-  .lightGrayBanner{
-    background-color: #BBC9D8;
-    margin: 0px;
-    padding: 0px 0px 5% 0px;
-  }
-    .containerTxt{
-      display: flex;
-      text-align: center;
-      justify-content: space-around;
-      margin-top: 0vh;
-      }
+          .lightGrayBanner{
+            background-color: #BBC9D8;
+            margin: 0px;
+            padding: 0px 0px 5% 0px;
+          }
+          .containerTxt{
+            display: flex;
+            text-align: center;
+            justify-content: space-around;
+            margin-top: 0vh;
+          }
 
-      .number h3{
-        padding: 1%;
-        background-color: gray;
-        color: white;
-        border-radius: 100%;
-      }
+          .number h3{
+            padding: 1%;
+            background-color: gray;
+            color: white;
+            border-radius: 100%;
+          }
 
           .containerNumb{
-      display: flex;
-      justify-content: space-around;
-      padding-top: 12vh;
-      }
+          display: flex;
+          justify-content: space-around;
+          padding-top: 12vh;
+          }
 
-      .containerNumb h3{
-        padding: 1%;
-        background-color: gray;
-        color: white;
-        border-radius: 100%;
-        margin: 0%;
-      }
+          .containerNumb h3{
+            padding: 1%;
+            background-color: gray;
+            color: white;
+            border-radius: 100%;
+            margin: 0%;
+          }
 
-      .button2{
-        color: #5191D9;
-        border: solid 3px #5191D9;
-        border-radius: 25px;
-        padding: 10px 20px;
-        text-transform: uppercase;
-        font-size: 12px;
-        text-decoration: none;    }
+          .button2{
+            color: #5191D9;
+            border: solid 3px #5191D9;
+            border-radius: 25px;
+            padding: 10px 20px;
+            text-transform: uppercase;
+            font-size: 12px;
+            text-decoration: none;   
+          }
 
-      .contTxtLeft{
-        margin: 11%;
+          .contTxtLeft{
+            margin: 11%;
 
-        display: flex;
-        justify-content: flex-start;
-      }
+            display: flex;
+            justify-content: flex-start;
+          }
 
-      .drawAlignRight{
-        display: flex;
-        justify-content: space-between;
-      }
+          .drawAlignRight{
+            display: flex;
+            justify-content: space-between;
+          }
 
-      .txtLeft a{
-        color: #5191D9;
-        text-decoration: none;
-      }
+          .txtLeft a{
+            color: #5191D9;
+            text-decoration: none;
+          }
 
   .sUpBanner{
     display: flex;
@@ -161,3 +162,15 @@ Blue banner under the first image
     background-color: #5191D9;
   }
  
+ .inputSize{
+  background-color: #5191D9;
+  color: white;
+  height: 30px;
+  width: 175px;
+ }
+ .banner6Blue{
+  background: linear-gradient(to bottom, rgba(81,145,217,.8),rgba(81,145,217,.8)), url('images/archiHouse.jpg') 50% 50% / cover no-repeat fixed border-box;
+  color: white;
+  text-align: left;
+  padding: 10% 30%;
+ }
