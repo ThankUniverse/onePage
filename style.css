@@ -141,7 +141,6 @@ Blue banner under the first image
   }
 
   .FREE{
-    margin-left: 5px;
     text-transform: uppercase;
     color: #5191D9;
   }
@@ -177,5 +176,28 @@ Blue banner under the first image
 
  .banner7white{
   text-align: left;
-  padding: 30% 40%;
+  padding: 15% 0px 15% 40%;
+ }
+
+ .button3{
+    color: white;
+    background-color: #5191D9;
+    border: solid 3px #5191D9;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-size: 12px;
+    text-decoration: none;   
+}
+
+ .banner7whitesmalltxt{
+  font-size: 14px;
+ }
+
+ footer{
+  background-color: #181E24;
+  color: white;
+  text-align: center; 
+  padding: 3%;
  }
